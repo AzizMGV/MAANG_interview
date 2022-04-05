@@ -4,7 +4,7 @@
 Этот репозиторий создан для “MAANG Interview” сообщества с целью упорядочить полезные ресурсы упоминаемые в чате. Каждая ссылка  в документе должна сопровождаться описанием. Не стесняемся слать pull реквесты и делать репозиторий лучше с каждым днем.
 
 ## Аббревиатуры
-- MAANG - Facebook(Meta), Apple, Amazon, Netflix, Google. Usually also means Microsoft, Github, Linkedin, Instagram, Snapchat, Palantir, Bloomberg, IBM. For Russian Companies: Yandex, - VK, Avito and JetBrains. 
+- MAANG - Facebook(Meta), Apple, Amazon, Netflix, Google. Usually also means Microsoft, Github, Linkedin, Instagram, Snapchat, Palantir, Bloomberg, IBM. For Russian Companies: Yandex, - VK, Avito 
 - LP - [Leadership Principles](https://www.aboutamazon.com/working-at-amazon/our-leadership-principles) (by Amazon)
 - CtCI - Cracking the Coding Interview (book)
 - SRE - Site Reliability Engineer
