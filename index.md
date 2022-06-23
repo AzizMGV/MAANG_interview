@@ -29,6 +29,7 @@
 - CLRS - Introduction of Algorithms ([book](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844))
 
 ## Mock  интервью сообщества
+Канал с Mock интервью. [interviewing.io](https://www.youtube.com/watch?v=XMcVV9G8F-s)
 Мы проводим технические мок-интервью в парах каждую неделю, больше деталей о том как это проходит в [этом документе](https://docs.google.com/document/d/1n-7-U6y2Cr58AygViDWkiqtKRq_jQdsRNKOfc-Uw1xE/edit?usp=sharing) (док открыт для комментирования).
 [Гайд как проводить мок-интервью](https://docs.google.com/document/d/1cX5zhd5Yb3IlMA2smbs8XgQCIapgeQQ1LW-01DJ8W5M/edit#heading=h.54uirbe8rdgs).
 
